@@ -1,0 +1,29 @@
+{
+    "name": "framework-v14",
+    "version": "1.0.0",
+    "description": "",
+    "main": "structures/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/InfinityJxck/Framework-v14.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/InfinityJxck/Framework-v14/issues"
+    },
+    "homepage": "https://github.com/InfinityJxck/Framework-v14#readme",
+    "dependencies": {
+        "chalk": "^4.0.0",
+        "consola": "^2.15.3",
+        "discord-html-transcripts": "^3.1.2",
+        "discord.js": "^14.3.0",
+        "glob": "^8.0.3",
+        "mongoose": "^6.7.4",
+        "ms": "^2.1.3"
+    }
+}

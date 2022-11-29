@@ -1,0 +1,20 @@
+{
+    "token": "MTA0NzI2NjMzOTI2MzM1NzA0OQ.Gxt5YI.FZU-0BflimH-s_qf0XubBeELxI1YvKXl65vUnE",
+    "developerGuildID": "1047107963900399688",
+    "anticrashWebhook": "https://discord.com/api/webhooks/999450630940790864/ycogfD6th3xYvlay0v3jJMYEFTIQxj3k4eXLNWEovLB45VTReNE4AAOrM06lt1Xl1t_u",
+
+    "color": "#ffffff",
+
+    "mongoURL": "mongodb+srv://8a1f2b6d-2e57:hwiJDTRVDjc2nT73VMjVy5DnkJLJwjvpzvKgqpCqeUP3u8eiP7Lfy49Xy94r@botdata.nrvpmhp.mongodb.net/TicketBotTrial?retryWrites=true&w=majority",
+
+    "oneCategoryId": "1047266660475740211",
+    "oneRoleId": "1047266703865815104",
+
+    "twoCategoryId": "1047266668512038992",
+    "twoRoleId": "1047266712707403926",
+
+    "threeCategoryId": "1047266677127119018",
+    "threeRoleId": "1047266718482956310",
+
+    "transcriptChannelId": "1047266688736972881"
+}
