@@ -5,7 +5,7 @@
 
     "color": "#ffffff",
 
-    "mongoURL": "mongodb+srv://8a1f2b6d-2e57:hwiJDTRVDjc2nT73VMjVy5DnkJLJwjvpzvKgqpCqeUP3u8eiP7Lfy49Xy94r@botdata.nrvpmhp.mongodb.net/TicketBotTrial?retryWrites=true&w=majority",
+    "mongoURL": "mongodb+srv://",
 
     "oneCategoryId": "1047266660475740211",
     "oneRoleId": "1047266703865815104",
